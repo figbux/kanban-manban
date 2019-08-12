@@ -1,4 +1,13 @@
-Simple Kanban
+Fork info
+---------
+Türkçe ve koyu. Ayrıca koşturucu betik ile masaüstü uygulaması görünümü elde edebilirsiniz (`kanban.sh`).
+
+Turkish and dark. Also a runner script that shows it like desktop app (`kanban.sh`). Yes, you can change the language.
+
+![alt text](ss.png "ss")
+
+
+Original work: Simple Kanban
 =============
 
 Simple Kanban is a simple PHP powered Kanban board.
