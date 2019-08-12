@@ -1,11 +1,8 @@
 var possibleStates = [
-	'B,Backlog',
-	'P,Pending ',
-	'Cs,Current Sprint',
-	'D,Doing',
-	'Bl,Blocked',
-	'Q,QA',
-	'L,Live'
+	'B,Yığın',
+	'P,Yapılacak',
+	'Cs,Yapılıyor',
+	'D,Bitti',
 ];
 
-var possible_colors = 4;
+var possible_colors = 5;

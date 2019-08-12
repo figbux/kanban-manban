@@ -1,18 +1,22 @@
 body { 
 	font-family: Helvetica; 
 	height: 100%;
+    background: #101010;
 }
 h4 {
 	margin:15px 5px;
 	text-align: center;
 	height: 40px;
+    color: #66ff66;
+    font-family: Courier;
 }
 
 #board {
 	float: left;
 	width: 100%;
 	display: table;
-	background:#f4ecd8;
+	/*background:#f4ecd8;*/
+    background:#101010;
 }
 #board .col {
 	display: table-cell;
@@ -27,28 +31,36 @@ h4 {
 }
 
 .col_0 {
-	background: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_1 {
-	background: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_2 {
-	background-color: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_3 {
-	background-color: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_4 {
-	background-color: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_5 {
-	background-color: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_6 {
-	background-color: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 .col_7 {
-	background-color: #f4ecd8;
+	/*background: #f4ecd8;*/
+    background: #202020;
 }
 
 
@@ -72,7 +84,7 @@ ul {
 }
 
 .color_0 {
-	background-color: #FFF;
+	background-color: #aaa;
 }
 .color_1 {
 	background-color: #00CC00;
@@ -82,6 +94,9 @@ ul {
 }
 .color_3 {
 	background-color: #FF3300;
+}
+.color_4 {
+    background-color: #438eff;
 }
 
 .highlight .box {
@@ -116,6 +131,7 @@ ul {
 
 .navigation {
 	margin: 10px;
+    color: #ccffcc;
 }
 
 

@@ -38,8 +38,8 @@
 	<div id="wrapper">
 		<navigation class="top">
 			<ul>
-				<li><i class="icon-plus"></i><a href="#" id="new">New</a></li>
-				<li><i class="icon-question-sign"></i><a href= "#helpModal"  role="button" class="btn" data-toggle="modal">Help</a></li>
+				<li><i class="icon-plus"></i><a href="#" id="new">Yeni</a></li>
+				<li><i class="icon-question-sign"></i><a href= "#helpModal"  role="button" class="btn" data-toggle="modal">Yardım et</a></li>
 			</ul>
 		</navigation>
 		<div id="board">
@@ -48,7 +48,7 @@
 		<div class="clear"></div>
 
 		<div id="navigation" class="navigation">
-			<h5>People with projects</h5>
+			<h5>Etiketler</h5>
 		</div>
 	</div>
 
